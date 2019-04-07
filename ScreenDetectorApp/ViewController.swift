@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  ScreenDetectorApp
 //
-//  Created by Kalaivani, Velusamy (623-Extern) on 07/04/19.
-//  Copyright © 2019 Kalaivani, Velusamy (623-Extern). All rights reserved.
+//  Created by Kalaivani, Velusamy on 07/04/19.
+//  Copyright © 2019 Kalaivani, Velusamy . All rights reserved.
 //
 
 import UIKit
